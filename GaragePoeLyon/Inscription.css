@@ -1,0 +1,19 @@
+body {
+
+  background-image:url(15.jpg);
+  background-size: 2000px;
+  
+  background-repeat: no-repeat;
+}
+
+h4{
+
+  color: yellowgreen;
+}
+#id1{
+    
+    color:cyan;
+    width: 50%;
+    margin: auto;
+    
+}

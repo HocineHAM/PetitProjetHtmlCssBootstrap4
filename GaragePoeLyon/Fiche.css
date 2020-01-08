@@ -1,0 +1,25 @@
+body {
+  
+    background-image:url(15.jpg);
+    background-size: 2000px;
+    
+    background-repeat: no-repeat;
+  }
+  
+  h4{
+  
+    color: gold;
+  }
+
+.table{
+
+    color: white;
+  }
+
+#id {
+    
+
+    width: 80%;
+    margin: auto;
+}
+

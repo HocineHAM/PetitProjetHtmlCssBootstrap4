@@ -1,0 +1,22 @@
+  body {
+  
+    background-image:url(15.jpg);
+    background-size: 2000px;
+    
+    background-repeat: no-repeat;
+  }
+  
+  h4{
+  
+    color:yellow;
+  }
+
+.table{
+
+    color: chartreuse;
+  }
+
+#id {
+    width: 40%;
+    margin: auto;
+}

@@ -1,0 +1,40 @@
+body {
+
+  background-image:url(15.jpg);
+  background-size: 2000px;
+  
+  background-repeat: no-repeat;
+}
+
+h4{
+
+  color:orange;
+margin-left: 45%;
+}
+#co{
+    
+    margin-left: 15%;
+    padding: 10%;
+    padding-top: 3%;
+   
+}
+.C1, .C2{
+    
+    color: orange;
+    
+}
+.nav-link{
+    
+    color:aqua;
+}
+
+.btn{
+    
+    margin-left: 3%;
+    
+}
+
+#id1>title{
+    
+    color: blue;
+}
